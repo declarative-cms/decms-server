@@ -20,4 +20,4 @@ Think of it like Decap CMS (formerly Netlify CMS) but even more vague and unopin
 
 # LICENSE
 
-For the moment this project is under "full rights reserved" licence. 
+For the moment this project is under "full rights reserved" licence.
