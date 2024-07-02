@@ -8,7 +8,8 @@
   "scripts": {
     "start": "node app/index.js",
     "dev": "node --watch app/index.js",
-    "test": "node --test"
+    "test": "node --test",
+    "sign": "drone sign declarative-cms/decms-server --save"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",

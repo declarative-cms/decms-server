@@ -10,3 +10,8 @@ steps:
     image: node:21-alpine
     commands:
       - yarn test
+---
+kind: signature
+hmac: 29993fff1dc6d6f8f3b57811d2db13ea4c27d268cf1bd5986810a4b9e07901b7
+
+...
