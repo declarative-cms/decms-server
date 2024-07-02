@@ -17,3 +17,7 @@ Not in scope of this project:
 ## Mental model
 
 Think of it like Decap CMS (formerly Netlify CMS) but even more vague and unopinionated, using database and APIs instead of filesystem.
+
+# LICENSE
+
+For the moment this project is under "full rights reserved" licence. 
